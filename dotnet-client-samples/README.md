@@ -41,26 +41,28 @@ The solution is divided into two sub projects:
 2. Make the sub project "ClientDemo" as the "Startup" project.
 3. Run the project.
 4. After the program is started, below commands will be shown on the console:
->    	$$$$ Demo for the Documentum REST .NET Client Reference Implementation$$$$
->    	Set the home document URL [http://localhost:8080/dctm-rest/services] :
->    	Set the username [dmadmin] :
->    	Set the user password [password] :
->    	Set the repository name [acme] :
->    	Whether to print the result [true] :
->
->    	Please choose the demo instance to run:
->    	  1 ----- Repository Demo
->    	  2 ----- User Home Cabinet Demo
->    	  3 ----- Folder Demo
->    	  4 ----- Document Demo
->    	  5 ----- Document Content Demo
->    	  6 ----- Document Version Demo
->    	  7 ----- Document Copy Move Link Demo
->    	  8 ----- DQL Query Demo
->    	  a ----- All
->    	  c ----- Clear the console
->    	  x ----- Exit the demo
->
->    	Command >
+>    	  Demo for the Documentum REST .NET Client Reference Implementation
+>     	  Set the home document URL [http://localhost:8080/dctm-rest/services] :
+>         Set the username [dmadmin] :
+>    	  Set the user password [password] :
+>    	  Set the repository name [acme] :
+>    	  Whether to print the result [true] :
+>        
+>    	  Please choose the demo instance to run:
+>    	    1 ----- Repository Demo
+>    	    2 ----- User Home Cabinet Demo
+>    	    3 ----- Folder Demo
+>    	    4 ----- Document Demo
+>    	    5 ----- Document Content Demo
+>    	    6 ----- Document Version Demo
+>    	    7 ----- Document Copy Move Link Demo
+>    	    8 ----- DQL Query Demo
+>    	    a ----- All
+>    	    c ----- Clear the console
+>    	    x ----- Exit the demo
+>          
+>         Command >
+
+
 5. Then please follow the commands to run the test demo.
 
